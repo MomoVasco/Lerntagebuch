@@ -1,6 +1,6 @@
 ---
 title: "Abschlussartikel - Was habe ich (nicht) gelernt?"
-date: 2021-01-26
+date: 2022-01-26
 ---
 Mittlerweile neigt sich das Semester dem Ende zu und es ist an der Zeit einen Blick darauf zu werfen, was ich im Fach BAIN dieses Semester gelernt oder eben nicht gelernt habe.
 Schauen wir uns dazu anhand nachfolgender Grafik aus der ersten Vorlesung nochmals das Gelernte an.
